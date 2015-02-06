@@ -1,0 +1,15 @@
+logs
+project/project
+project/target
+target
+tmp
+bin
+.*
+!.gitignore
+!.mailmap
+dist
+/*.iml
+/out
+/RUNNING_PID
+*.log
+scalastyle-config.xml
